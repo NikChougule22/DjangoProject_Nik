@@ -1,0 +1,7 @@
+{
+    "auto-close-tag.fullMode": true,
+    "html.format.endWithNewline": false,
+    "html.format.indentInnerHtml": true,
+    "html.format.templating": true,
+    
+}
